@@ -1,0 +1,14 @@
+[2025-06-30 23:28:05,705 | ERROR | SocketDataReactor |  | WM - OutboundServices] Exception in Calling OutboundInterfaceServiceImpl::assignLPNToStaticRouteAndActivateShipment Index: 0, Size: 0
+[2025-06-30 23:28:05,706 | ERROR | SocketDataReactor |  | WM - CoreCommon] SocketEventProcessor>>EJB call succeeded: OutboundInterfaceServiceImpl.assignLPNToStaticRouteAndActivateShipment
+[2025-06-30 23:28:05,706 | ERROR | SocketDataReactor |  | WM - CoreCommon] SocketEventProcessor>>out variable:com.manh.wmos.services.outbound.data.StaticRouteResponseData.lpnId,java.lang.Long,
+[2025-06-30 23:28:05,706 | ERROR | SocketDataReactor |  | WM - CoreCommon] SocketEventProcessor>>out variable:com.manh.wmos.services.outbound.data.StaticRouteResponseData.lpnIdList,java.lang.String,
+[2025-06-30 23:28:05,706 | ERROR | SocketDataReactor |  | WM - CoreCommon] SocketEventProcessor>>out variable:com.manh.wmos.services.outbound.data.StaticRouteResponseData.shipmentIdList,java.lang.String,
+[2025-06-30 23:28:05,706 | ERROR | SocketDataReactor |  | WM - CoreCommon] SocketEventProcessor>>out variable:com.manh.wmos.services.outbound.data.StaticRouteResponseData.errorId,java.lang.String,
+[2025-06-30 23:28:05,706 | ERROR | SocketDataReactor |  | WM - CoreCommon] SocketEventProcessor>>out variable:com.manh.wmos.services.outbound.data.StaticRouteResponseData.module,java.lang.String,
+[2025-06-30 23:28:05,706 | ERROR | SocketDataReactor |  | WM - CoreCommon] SocketEventProcessor>>out variable:com.manh.wmos.services.outbound.data.StaticRouteResponseData.message,java.lang.String,Index: 0, Size: 0
+[2025-06-30 23:28:05,897 | ERROR | WebContainer : 6 | 1003114774:995uDhpop4kQMVQaKF2yD-m:A79F7951F0BA75D0:/scopeRF/wm/outbound/ui/RFPCDVrfySkuQty.jsflps | WM - CoreCommon] For WM Code :WAVEPICK:1042 and resourceBundleKey :112301042 error Message is: End of oLPN!
+[2025-06-30 23:28:06,007 | ERROR | Thread-86 |  | WM - MHE Inbound] MHEInboundScheduler isPeerConfigured :: Invalid value or not configured
+[2025-06-30 23:28:06,188 | ERROR | WebContainer : 16 | 1003114774:995uDhpop4kQMVQaKF2yD-m:369D4DD9A1B99F51:/scopeRF/wm/outbound/ui/RFPCDEntryMode.jsflps | WM - CoreCommon] For WM Code :TASKMGMT:1002 and resourceBundleKey :112001002 error Message is: Invalid Task Group
+[2025-06-30 23:28:06,297 | ERROR | WebContainer : 29 | 1074134640:LOjBRLg6xXjXdBAQOv9ymoZ:4FE0E34DC6860872:/scopeRF/wm/outbound/ui/RFPalletizeLPN.jsflps | WM - CoreCommon] For WM Code :OUTBGEN:1095 and resourceBundleKey :110901095 error Message is: oLPN is already on a Pallet
+[2025-06-30 23:28:07,067 | ERROR | Thread-86 |  | WM - MHE Inbound] MHEInboundScheduler isPeerConfigured :: Invalid value or not configured
+[2025-06-30 23:28:07,463 | ERROR | WebContainer : 11 | 1070950151:SBspfM4SSP5IKJ8UVAvPPbF:0C94B3133CA447AB:/scopeRF/wm/outbound/ui/RFPCDVerifyItem.jsflps | WM - CoreCommon] For WM Code :INVMGMT:1119 and resourceBu
